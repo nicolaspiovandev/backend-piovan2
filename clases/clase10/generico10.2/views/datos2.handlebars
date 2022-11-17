@@ -1,0 +1,22 @@
+<h1> Usuarios</h1>
+{{#each datos.usuarios}}
+<ul>
+    <li>{{name}}</li>
+    <li>{{user}}</li>
+    <li>{{champion}}</li>
+
+</ul>
+
+{{/each}}
+
+<h1> Partidas</h1>
+
+{{#each datos.partidas}}
+<ul>
+    <li class={{datos.type}}>id: {{id}}</li>
+    <li>duracion: {{duracion}}</li>
+
+
+</ul>
+
+{{/each}}

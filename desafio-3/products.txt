@@ -1,0 +1,263 @@
+[
+  {
+    "brand": "Apple",
+    "title": "MacBook Air",
+    "chip": "M1",
+    "price": 999,
+    "thumbnail": "https://www.apple.com/v/mac/home/bq/images/overview/compare/compare_mba__fchj615oz0yi_small.png",
+    "id": 1
+  },
+  {
+    "brand": "Apple",
+    "title": "MacBook Air",
+    "chip": "M2",
+    "price": 1199,
+    "thumbnail": "https://www.apple.com/v/mac/home/bq/images/overview/compare/compare_mbam2__bdesjk99hf4i_small.png",
+    "id": 2
+  },
+  {
+    "brand": "Apple",
+    "title": "MacBook Pro 13 pulgadas",
+    "price": 1299,
+    "thumbnail": "https://www.apple.com/v/mac/home/bq/images/overview/compare/compare_mbp13__euj5z15300om_small.png",
+    "id": 3
+  },
+  {
+    "brand": "Apple",
+    "title": "MacBook Pro 14 y 16 pulgadas",
+    "price": 1999,
+    "thumbnail": "https://www.apple.com/v/mac/home/bq/images/overvie…pare/compare_mbp14_and_16__f2dhysusb5im_small.png",
+    "id": 4
+  },
+  {
+    "brand": "Apple",
+    "title": "iMac 24 pulgadas",
+    "price": 1299,
+    "thumbnail": "https://store.storeimages.cdn-apple.com/4982/as-im…?wid=490&hei=500&fmt=jpeg&qlt=95&.v=1625868688000",
+    "id": 5
+  },
+  {
+    "brand": "ASUS",
+    "title": "ZenBook 14",
+    "price": 1299,
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_2X_732599-MLA48061930662_102021-F.webp",
+    "id": 6
+  },
+  {
+    "brand": "ASUS",
+    "title": "VivoBook 15",
+    "price": 1299,
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_2X_908593-MLA49420869607_032022-F.webp",
+    "id": 7
+  },
+  {
+    "brand": "ASUS",
+    "title": "TUF Dash F15",
+    "price": 1299,
+    "thumbnail": "https://www.asus.com/media/Odin/Websites/global/Series/33/P_setting_xxx_0_90_end_185.png?webp",
+    "id": 8
+  },
+  {
+    "brand": "ASUS",
+    "title": "ROG Zephyrus G14",
+    "price": 1299,
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_956028-MLA48157829201_112021-O.webp",
+    "id": 9
+  },
+  {
+    "brand": "Lenovo",
+    "title": "Laptop ThinkPad X1 Carbon 9na Gen",
+    "price": 522999,
+    "thumbnail": "https://www.lenovo.com/medias/lenovo-laptop-thinkp…U2YjJjNjE3MmU2NDRmNWZlMTczMmY4Mzk5NTUwMGM1NzdjNDM",
+    "id": 10
+  },
+  {
+    "brand": "Lenovo",
+    "title": "ThinkPad E14 Gen 2",
+    "price": 286999,
+    "thumbnail": "https://www.lenovo.com/medias/lenovo-laptop-thinkp…QxMjEzZjMzMDAwNTg4Yzg5NmIwNmE3NzM4NDE3NjYzMWJkNjk",
+    "id": 11
+  },
+  {
+    "brand": "Lenovo",
+    "title": "ThinkPad E15 2da Gen",
+    "price": 261999,
+    "thumbnail": "https://www.lenovo.com/medias/22tpe15e5n2.png?cont…UwNDljMzY5ZTMxODA2NWQzMTIwOWNlYTgxNzE3M2NkNGJlZmM",
+    "id": 12
+  },
+  {
+    "brand": "Lenovo",
+    "title": "ThinkPad L14 Gen 2",
+    "price": 251999,
+    "thumbnail": "https://www.lenovo.com/medias/lenovo-laptop-thinkp…Y5MWYwMDRlYjBjMmMwZGFlNDhhMjA1ODcwYTM0ODczODc2ZDQ",
+    "id": 13
+  },
+  {
+    "brand": "Lenovo",
+    "title": "ThinkPad T14 2da Gen",
+    "price": 351999,
+    "thumbnail": "https://www.lenovo.com/medias/lenovo-laptop-think-…QyZDZhNzRhNmEzYjNhNWI5NGNiMWM1NjAwOTVjMzhmYjQzMzM",
+    "id": 14
+  },
+  {
+    "brand": "Lenovo",
+    "title": "ThinkPad T14s 2da Gen",
+    "price": 413999,
+    "thumbnail": "https://www.lenovo.com/medias/lenovo-laptops-think…cyM2UwMDYwOTc4YTM2ZDc3M2FjOWRhNWQ4NzQ2MDgyNjY0Yjk",
+    "id": 15
+  },
+  {
+    "brand": "Lenovo",
+    "title": "ThinkPad T15 2da Gen",
+    "price": 383999,
+    "thumbnail": "https://www.lenovo.com/medias/lenovo-laptops-think…cyM2UwMDYwOTc4YTM2ZDc3M2FjOWRhNWQ4NzQ2MDgyNjY0Yjk",
+    "id": 16
+  },
+  {
+    "brand": "Lenovo",
+    "title": "ThinkPad X13 2da Gen",
+    "price": 370999,
+    "thumbnail": "https://www.lenovo.com/medias/22tpx13x3n2.png?cont…QzZTk3MjA1MWU0MzMwNGI0NTY1ZGQ5NGMxZTQzZGI5ZmZlMjM",
+    "id": 17
+  },
+  {
+    "brand": "Lenovo",
+    "title": "Lenovo 100e Windows 2da Gen",
+    "price": 108000,
+    "thumbnail": "https://www.lenovo.com/medias/lenovo-100e-windows-…jBlOGZkNjc0YzgwNmY5MjE4MmVmZGRjMmFiZDlmMWQyZWRkYg",
+    "id": 18
+  },
+  {
+    "brand": "Lenovo",
+    "title": "100e Chromebook 2da Gen",
+    "price": 72999,
+    "thumbnail": "https://www.lenovo.com/medias/lenovo-student-chrom…RmYzc3ZWNhNzFjYzRhMWFkMzNlY2NkNmZlYTNhZjRjZjBkMTc",
+    "id": 19
+  },
+  {
+    "brand": "Lenovo",
+    "title": "Lenovo 14e Chromebook",
+    "price": 64999,
+    "thumbnail": "https://www.lenovo.com/medias/lenovo-14e-chromeboo…Q4MDIzNTg3ZDlmYmI0ZjY4OGI1ODc3OTk1MDQxYTJkOGIzM2M",
+    "id": 20
+  },
+  {
+    "brand": "Lenovo",
+    "title": "Laptop gamer Legion 5 6ta Gen",
+    "price": 313999,
+    "thumbnail": "https://www.lenovo.com/medias/lenovo-laptop-legion…c0OWZmMzQ3MDhmMDkxZGJiNjc5YjNkYmUxYmExYmFhNTBkN2Y",
+    "id": 21
+  },
+  {
+    "brand": "Lenovo",
+    "title": "IdeaPad Flex 5",
+    "price": 170000,
+    "thumbnail": "https://www.lenovo.com/medias/lenovo-laptop-ideapa…0NmNkYjA4ZmY0NmY0ZTQ1YjUxYmJiZDMxZDY3ODJiMGQyN2Y5",
+    "id": 22
+  },
+  {
+    "brand": "Lenovo",
+    "title": "IdeaPad 3i",
+    "price": 114999,
+    "thumbnail": "https://www.lenovo.com/medias/lenovo-laptops-ideap…kyZjRjOTI5MTNhNDNmZjA5ZWZiMzZmZGFiNjY0MDJmNzUwMzQ",
+    "id": 23
+  },
+  {
+    "brand": "Lenovo",
+    "title": "IdeaPad 5i",
+    "price": 132000,
+    "thumbnail": "https://www.lenovo.com/medias/lenovo-laptops-ideap…kODhjNWFmZmRmZTNiZWVmMGY2MTE4MDAyMGZjMTIwZjZkZGJl",
+    "id": 24
+  },
+  {
+    "brand": "Lenovo",
+    "title": "Yoga Slim 7",
+    "price": 217.999,
+    "thumbnail": "https://www.lenovo.com/medias/lenovo-laptop-yoga-s…UzNDk4NWI2M2Q1M2Q0ZDVhYzBjZTI3ZjQ0OTUyMGY5MWIxZmM",
+    "id": 25
+  },
+  {
+    "brand": "Lenovo",
+    "title": "Legion 5i 7ma Gen",
+    "price": 339.999,
+    "thumbnail": "https://www.lenovo.com/medias/lenovo-gaming-legion…kMmE1MzEyZWFkYzJmY2RmYjhhZDllZGVlNmRhMDdkYThiZDkx",
+    "id": 26
+  },
+  {
+    "brand": "Lenovo",
+    "title": "Legion Slim 7i Gen 7",
+    "price": 463999,
+    "thumbnail": "https://www.lenovo.com/medias/lenovo-gaming-legion…2ZmMyMGQ4YTA3YzM3MmY4OGI3NmFiMDQ1ZmRhYTliY2IzMzIz",
+    "id": 27
+  },
+  {
+    "brand": "Lenovo",
+    "title": "Legion 5 Pro 7ma Gen",
+    "price": 432999,
+    "thumbnail": "https://www.lenovo.com/medias/lenovo-laptops-legio…yNGViMmQ2YzRkMjFiODU0NjNhODFlNTRhNTQ1YjQ3MTMxZmIy",
+    "id": 28
+  },
+  {
+    "brand": "Lenovo",
+    "title": "IdeaPad 3i",
+    "price": 115000,
+    "thumbnail": "https://www.lenovo.com/medias/88IPS301421.png?cont…A5NTRlNzY2ZGQ2YmMxZTVlNTIzYzNkYWJmMTNkZDBmMjA5MzU",
+    "id": 29
+  },
+  {
+    "brand": "Lenovo",
+    "title": "IdeaPad Gaming 3i 7ma Gen",
+    "price": 255000,
+    "thumbnail": "https://www.lenovo.com/medias/lenovo-laptops-ideap…yMzg3YzA1NzFjMGEyYjA3ZDlkZjQxYTM5YWRhYjhhNTg1YzRl",
+    "id": 30
+  },
+  {
+    "brand": "Lenovo",
+    "title": "ThinkPad P15v 2da Gen",
+    "price": 655999,
+    "thumbnail": "https://www.lenovo.com/medias/len101t0001.png?cont…czMTkzNzI1ZTNiNWRkZGE3NDE5YTM5YWFkM2UxNTU5MDMzMjE",
+    "id": 31
+  },
+  {
+    "brand": "Lenovo",
+    "title": "IdeaPad Gaming 3 6ta Gen",
+    "price": 242000,
+    "thumbnail": "https://www.lenovo.com/medias/lenovo-laptop-ideapa…EyYzM1M2FjMDNlMjcyMzNhYTE3YjAyMjZmMjYxZDUyMzI3YmI",
+    "id": 32
+  },
+  {
+    "brand": "Lenovo",
+    "title": "ThinkPad P15 Gen 2",
+    "price": 938999,
+    "thumbnail": "https://www.lenovo.com/medias/wmd00000487.png?cont…xOWMwNTIwMzNjNTE2NzRiZGExYTQ2OWUxNmRkYjU3OTE4ZDZk",
+    "id": 33
+  },
+  {
+    "brand": "Lenovo",
+    "title": "ThinkBook 14p 2da Gen",
+    "price": 286999,
+    "thumbnail": "https://www.lenovo.com/medias/lenovo-laptop-thinkb…I3NGIwMTRkNmNmOWM2OWNkMTk3MjM0YWZkZTEyOTA0ODljYzc",
+    "id": 34
+  },
+  {
+    "brand": "Lenovo",
+    "title": "ThinkBook 16p 2da Gen Mineral Grey",
+    "price": 517999,
+    "thumbnail": "https://www.lenovo.com/medias/lenovo-laptop-thinkb…wZjY4NzI1ZmVhMTNhNjY3MGY0YzAwZTVlZTA3NzA5M2U4Njk5",
+    "id": 35
+  },
+  {
+    "brand": "Lenovo",
+    "title": "ThinkBook 15p",
+    "price": 385999,
+    "thumbnail": "https://www.lenovo.com/medias/lenovo-laptop-thinkb…Q5MzdlOGNjZGRjMjgwNGVhZWU0MjhiMjRkOTI4YmFmZWQ3NTg",
+    "id": 36
+  },
+  {
+    "brand": "Lenovo",
+    "title": "ThinkBook 14s Gen 2",
+    "price": 237999,
+    "thumbnail": "https://www.lenovo.com/medias/lenovo-laptops-think…E4YWE4MGIxMGIyY2VlNzFhNjkzM2I3OTQ4YTM2YTg5NDdkNzM",
+    "id": 37
+  }
+]

@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+</style>
+</head>
+<body>
+
+<h2>{{ colegio.nombre }}</h2>
+<h2>Contacto {{ colegio.contacto }}</h2>
+
+<table>
+  <tr>
+    <th>Nombre</th>
+    <th>Apellido</th>
+    <th>Dni</th>
+  </tr>
+  {{#each colegio.alumnos}}
+  <tr>
+    <td>{{nombre}}</td>
+    <td>{{apellido}}</td>
+    <td>{{dni}}</td>
+  </tr>
+  {{/each}}
+</table>
+
+
+<h2>Ubicacion: {{ colegio.ubicacion }}</h2>
+</body>
+</html>

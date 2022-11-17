@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "timestamp": 1666841276045,
+    "nombre": "MacBook Air",
+    "descripcion": "Macbook chip M2",
+    "codigo": "1",
+    "fotoUrl": "\thttps://http2.mlstatic.com/D_NQ_NP_945710-MLA48354170509_112021-O.webp",
+    "precio": "2000",
+    "stock": "20"
+  }
+]

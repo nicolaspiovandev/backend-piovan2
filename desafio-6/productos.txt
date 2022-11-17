@@ -1,0 +1,1 @@
+[[{"nombre":"iMac","precio":"2000","url":"\thttps://http2.mlstatic.com/D_NQ_NP_945710-MLA48354170509_112021-O.webp"}],[{"nombre":"iMac","precio":"200","url":"\thttps://http2.mlstatic.com/D_NQ_NP_945710-MLA48354170509_112021-O.webp"}],{"nombre":"macbook","precio":"2000","url":"\thttps://http2.mlstatic.com/D_NQ_NP_945710-MLA48354170509_112021-O.webp"}]
